@@ -61,7 +61,7 @@
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kelvinagbe&repo=your-awesome-project&theme=radical&hide_border=true)](https://github.com/Kelvinagbe/your-awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kelvinagbe&repo=ovrica&theme=radical&hide_border=true)](https://github.com/Kelvinagbe/ovrica)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kelvinagbe&repo=another-cool-project&theme=radical&hide_border=true)](https://github.com/Kelvinagbe/another-cool-project)
 
 </div>
