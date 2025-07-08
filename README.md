@@ -8,17 +8,11 @@
 
 ## 🚀 About Me
 
-```javascript
-const kelvin = {
-    pronouns: "He/Him",
-    background: "Computer Science Student & Self-Taught Web Developer",
-    passion: "Turning ideas into reality through code",
-    currentFocus: "Full-stack web development & problem solving",
-    learning: ["Advanced JavaScript", "React Ecosystem", "Backend Technologies", "System Design"],
-    collaborating: "Open source projects and real-world applications",
-    funFact: "Self-taught developer who believes the best teacher is curiosity! 🚀"
-};
-```
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7931E&width=800&lines=const+kelvin+%3D+%7B;++pronouns%3A+%22He%2FHim%22%2C;++background%3A+%22Computer+Science+Student+%26+Self-Taught+Web+Developer%22%2C;++passion%3A+%22Turning+ideas+into+reality+through+code%22%2C;++currentFocus%3A+%22Full-stack+web+development+%26+problem+solving%22%2C;++funFact%3A+%22Self-taught+developer+who+believes+the+best+teacher+is+curiosity%21+%F0%9F%9A%80%22;%7D%3B)](https://git.io/typing-svg)
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -100,19 +94,19 @@ const kelvin = {
 
 ## 🎯 My Journey
 
-- 🎓 **Computer Science Student** passionate about software development
-- 💻 **Self-taught Web Developer** who learned through hands-on projects and endless curiosity
-- 🌐 **Full-stack focused** with experience in both frontend and backend technologies
-- 🔧 **Problem solver** who enjoys breaking down complex challenges into manageable solutions
-- 📚 **Continuous learner** always exploring new technologies and best practices
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=36BCF7&width=900&lines=%F0%9F%8E%93+Computer+Science+Student+passionate+about+software+development;%F0%9F%92%BB+Self-taught+Web+Developer+who+learned+through+hands-on+projects;%F0%9F%8C%90+Full-stack+focused+with+frontend+and+backend+experience;%F0%9F%94%A7+Problem+solver+who+breaks+down+complex+challenges;%F0%9F%93%9A+Continuous+learner+always+exploring+new+technologies)](https://git.io/typing-svg)
+
+</div>
 
 ## 🎯 Current Goals
 
-- 🔭 Building real-world applications that solve actual problems
-- 🌱 Deepening my knowledge in advanced web development concepts
-- 👯 Contributing to open source projects and collaborating with other developers
-- 💬 Sharing knowledge with the developer community
-- ⚡ Fun fact: Started coding because I wanted to build my own websites, now I can't stop creating!
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF6B6B&width=800&lines=%F0%9F%94%AD+Building+real-world+applications+that+solve+actual+problems;%F0%9F%8C%B1+Deepening+knowledge+in+advanced+web+development;%F0%9F%91%AF+Contributing+to+open+source+projects;%F0%9F%92%AC+Sharing+knowledge+with+the+developer+community;%E2%9A%A1+Started+coding+to+build+websites%2C+now+I+can%27t+stop+creating%21)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -121,7 +115,7 @@ const kelvin = {
 ![Profile Views](https://komarev.com/ghpvc/?username=Kelvinagbe&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/Kelvinagbe?style=social)](https://github.com/Kelvinagbe)
 
-**"The best way to learn programming is to write programs."** - Self-taught developer mindset
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=4ECDC4&width=600&lines=%22The+best+way+to+learn+programming;is+to+write+programs.%22;-+Self-taught+developer+mindset)](https://git.io/typing-svg)
 
 </div>
 
